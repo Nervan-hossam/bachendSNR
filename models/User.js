@@ -8,4 +8,4 @@ const userSchema = new mongoose.Schema({
     },
     
 });
-modi
+module.exports=router;
